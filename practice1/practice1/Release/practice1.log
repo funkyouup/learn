@@ -1,0 +1,7 @@
+﻿  practice.cpp
+practice.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 108 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  practice1.vcxproj -> c:\users\fashion gold\documents\visual studio 2015\Projects\practice1\Release\practice1.exe
+  practice1.vcxproj -> c:\users\fashion gold\documents\visual studio 2015\Projects\practice1\Release\practice1.pdb (Full PDB)
